@@ -1,0 +1,10 @@
+Josh|0|toe.png
+Unknown|1|toe.png
+Unknown|0|toe.png
+Unknown|0|tick.png
+Unknown|0|toe.png
+Unknown|0|tick.png
+Unknown|0|toe.png
+Unknown|0|tick.png
+Unknown|0|toe.png
+Unknown|1|tick.png
